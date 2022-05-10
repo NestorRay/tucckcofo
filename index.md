@@ -6,7 +6,14 @@
 
 ## 肯定最想要的就是考试答案了
 ### 语文
-还没有答案……
+这是一个测试
+
+<object data="https://github.com/NestorRay/tucckcofo/blob/gh-pages/pdf/%E3%80%8A%E8%B0%8F%E5%A4%AA%E5%AE%97%E5%8D%81%E6%80%9D%E7%96%8F%E3%80%8B%E8%AF%BE%E4%BB%B6-%E7%8E%8B%E8%A1%A1(1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/NestorRay/tucckcofo/blob/gh-pages/pdf/%E3%80%8A%E8%B0%8F%E5%A4%AA%E5%AE%97%E5%8D%81%E6%80%9D%E7%96%8F%E3%80%8B%E8%AF%BE%E4%BB%B6-%E7%8E%8B%E8%A1%A1(1).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/NestorRay/tucckcofo/blob/gh-pages/pdf/%E3%80%8A%E8%B0%8F%E5%A4%AA%E5%AE%97%E5%8D%81%E6%80%9D%E7%96%8F%E3%80%8B%E8%AF%BE%E4%BB%B6-%E7%8E%8B%E8%A1%A1(1).pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### 数学
 还没有答案……
 ### 英语
