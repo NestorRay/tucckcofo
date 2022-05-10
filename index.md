@@ -1,8 +1,8 @@
 # 期中考试了……
 
-<font color=red>**网站的访问会有后台统计，不要外传**</font>
+**网站的访问会有后台统计，<font color=red>不要外传</font>**
 
-**<font color=red>都是哥们 不要截屏哟</font>**
+**都是<font color=red>哥们</font> 不要截屏哟**
 
 ## 肯定最想要的就是考试答案了
 ### 语文
