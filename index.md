@@ -21,7 +21,7 @@
 ### 语文
 这是一个测试
 
-[语文测试](https://gitee.com/nestorray/tucckcofo/blob/gh-pages/pdf/%E3%80%8A%E8%B0%8F%E5%A4%AA%E5%AE%97%E5%8D%81%E6%80%9D%E7%96%8F%E3%80%8B%E8%AF%BE%E4%BB%B6-%E7%8E%8B%E8%A1%A1(1).pdf "点此下载")
+[语文测试](https://iamnestor.oss-cn-beijing.aliyuncs.com/pdf/%E3%80%8A%E8%B0%8F%E5%A4%AA%E5%AE%97%E5%8D%81%E6%80%9D%E7%96%8F%E3%80%8B%E8%AF%BE%E4%BB%B6-%E7%8E%8B%E8%A1%A1(1).pdf?OSSAccessKeyId=LTAI5t8JUBrvXvVtL8w7gvT9&Expires=1001652185758&Signature=nIU7tTghzGsNxK0d%2F0oeCxko1uA%3D "点此下载")
 
 ### 数学
 还没有答案……
