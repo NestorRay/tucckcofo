@@ -1,4 +1,4 @@
-# 返校？
+# 郑州疫情信息动态更新
 
 <!-- ![朵拉的教育局](https://iamnestor.oss-cn-beijing.aliyuncs.com/img.jpg?OSSAccessKeyId=LTAI5t8JUBrvXvVtL8w7gvT9&Expires=101652233190&Signature=I8in9kYq4EcuA99E8VYc%2FMuAWbQ%3D) -->
 ## [**<font color = "#13a8c2">5月11日新增确诊</font>**](https://weibo.com/5594618028/LstfWExJ4 "河南省卫健委微博原文")
