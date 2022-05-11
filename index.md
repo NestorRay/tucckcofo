@@ -1,7 +1,9 @@
 # 返校？
 
-## 5月11日新增确诊待发布
+![朵拉的教育局](https://iamnestor.oss-cn-beijing.aliyuncs.com/img.jpg?OSSAccessKeyId=LTAI5t8JUBrvXvVtL8w7gvT9&Expires=101652233190&Signature=I8in9kYq4EcuA99E8VYc%2FMuAWbQ%3D)
+## **<font color =red>5月11日新增确诊待发布</font>**
 ## [<font color = "#13a8c2">最新封控区</font>](https://weibo.com/2434139193/LspQXvf1d "郑州发布官方微博")
+
 **<font color = "#13a8c2">二七区</font>**  
 长江路街道办事处台胞小区社区京莎广场A、B、C座（含底商），中岳大厦2号楼，台胞小区社区，代庄社区  
 人和路街道办事处广兴社区、郑飞社区、杏苑社区、荆胡社区、联合社区  
