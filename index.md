@@ -1,9 +1,9 @@
 # 郑州疫情信息动态更新
 
 <!-- ![朵拉的教育局](https://iamnestor.oss-cn-beijing.aliyuncs.com/img.jpg?OSSAccessKeyId=LTAI5t8JUBrvXvVtL8w7gvT9&Expires=101652233190&Signature=I8in9kYq4EcuA99E8VYc%2FMuAWbQ%3D) -->
-><font size =4>小声哔哔：要是不更新了 那就是人已经到新枫杨了</font>
->
-><font size =4>哪个幸运儿封控在家了呢</font>
+>小声哔哔：要是不更新了 那就是人已经到新枫杨了  
+>看来返校无疑了🤩  
+>哪个幸运儿封控在家了呢
 
 
 ## [**<font color = "#13a8c2">5月11日新增确诊(点击查看微博原文)</font>**](https://weibo.com/5594618028/LstfWExJ4 "河南省卫健委微博原文")
