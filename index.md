@@ -1,7 +1,10 @@
 # 返校？
 
-![朵拉的教育局](https://iamnestor.oss-cn-beijing.aliyuncs.com/img.jpg?OSSAccessKeyId=LTAI5t8JUBrvXvVtL8w7gvT9&Expires=101652233190&Signature=I8in9kYq4EcuA99E8VYc%2FMuAWbQ%3D)
-## **<font color =red>5月11日新增确诊待发布</font>**
+<!-- ![朵拉的教育局](https://iamnestor.oss-cn-beijing.aliyuncs.com/img.jpg?OSSAccessKeyId=LTAI5t8JUBrvXvVtL8w7gvT9&Expires=101652233190&Signature=I8in9kYq4EcuA99E8VYc%2FMuAWbQ%3D) -->
+## [**<font color = "#13a8c2">5月11日新增确诊</font>**](https://weibo.com/5594618028/LstfWExJ4 "河南省卫健委微博原文")
+>全省新增本土确诊病例22例（许昌市13例，平顶山4例，**<font color = red>郑州市3例</font>**，濮阳市1例，信阳市1例），含1例由无症状感染者转为确诊病例（信阳市1例）；新增本土无症状感染者67例（许昌市27例，**<font color = red>郑州市17例</font>**，濮阳市9例，周口市7例，安阳市4例，平顶山3例）；无新增本土疑似病例。无新增境外输入性确诊病例、无症状感染者和疑似病例。4例本土确诊病例治愈出院，14例无症状感染者解除医学观察（本土13例，境外输入1例）。
+>
+>**河南省卫健委**
 ## [<font color = "#13a8c2">最新封控区</font>](https://weibo.com/2434139193/LspQXvf1d "郑州发布官方微博")
 
 **<font color = "#13a8c2">二七区</font>**  
