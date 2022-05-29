@@ -1,2 +1,2 @@
-# clodureve云盘
+# Cloudreve云盘
 # [云盘入口](http://8.130.53.21:5212/)
